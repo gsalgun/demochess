@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chess Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_chess">Chess Demo</string>
+    <string name="warning_wrongset">Karşı tarafın taşını seçemezsiniz</string>
+    <string name="warning_wrongpiece">Bu taşı oynatamazsınız</string>
+    <string name="warning_wrongsquare">Bu kareye oynatamazsınız</string>
+    <string name="warning_youwon">Tebrikler! Doğru hamle yaptınız :)</string>
+
+</resources>
